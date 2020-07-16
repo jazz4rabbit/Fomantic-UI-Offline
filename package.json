@@ -1,0 +1,22 @@
+{
+  "name": "fomantic-ui-offline",
+  "version": "0.0.0",
+  "description": "Fomantic-UI with offline fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazz4rabbit/Fomantic-UI-Offline.git"
+  },
+  "author": "jazz4rabbit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jazz4rabbit/Fomantic-UI-Offline/issues"
+  },
+  "homepage": "https://github.com/jazz4rabbit/Fomantic-UI-Offline#readme",
+  "dependencies": {
+    "fomantic-ui": "^2.8.6"
+  }
+}
